@@ -1,1 +1,3 @@
 # 01.01---PROYECTO-KAGGLE
+
+Nombre: Jhon Alexander Argaez Ibarra CC: 1036687066 Progama: Ingenieria de Sistemas modalida Presencial
